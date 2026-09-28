@@ -1,0 +1,7 @@
+# dkify marketplace index (dk.marketplace.v1, draft). [NOLOG]
+# Public source: anyone can resolve entries here. Private and customer-scoped
+# entries never belong in this repository; `dkify marketplace validate` refuses them.
+schema: dk.marketplace.v1
+name: dkify-plugins
+visibility: public
+entries: []
